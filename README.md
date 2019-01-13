@@ -35,3 +35,8 @@ This is the repository for example [Processing](http://processing.org) code from
 * [sjl's Quil port](https://github.com/sjl/The-Nature-of-Code-Examples)
 * [mudphone's Quil port](https://github.com/mudphone/natureofclojure)
 * [Clojure2d port](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/NOC)
+
+### MAX MSP nodejs Node4Max
+https://github.com/dfamil/n4m-examples/tree/master/natureofcode  this is a fork of
+https://github.com/Cycling74/n4m-examples
+
